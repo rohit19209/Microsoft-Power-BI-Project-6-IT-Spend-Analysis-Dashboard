@@ -1,6 +1,6 @@
 # Micorsoft-Power-BI-Project-6-IT-Spend-Analysis-Dashboard
 
-Prerequitise- Download Microsoft Power BI Desktop latest Version in your local system.                                                                                                                                                                                                                                                                                 
+Prerequisite- Download Microsoft Power BI Desktop latest Version in your local system.                                                                                                                                                                                                                                                                                 
 </br>
 Steps to follow to view the Dashboard:
 1) Download the .rar File
